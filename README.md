@@ -5,8 +5,8 @@ My work on this project introduced me to Android mobile development using Androi
 I developed a weight tracking application that allows a user to create an account, login, and track weights using a grid. An additional requirement was requesting permission from the user to communicate using SMS messages for important notifications. There are two main screens of my app, the login screen and grid screen. I will include screenshots of both below.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/77023670/210270428-e78e6c3a-f9fa-437f-a957-b64859d52e5c.png" />
-<img src="https://user-images.githubusercontent.com/77023670/210270431-ec262213-0e72-4cfe-b275-2e87dd3839f1.png" />
+<img width="270" height="480" src="https://user-images.githubusercontent.com/77023670/210270428-e78e6c3a-f9fa-437f-a957-b64859d52e5c.png" />
+<img width="270" height="480" src="https://user-images.githubusercontent.com/77023670/210270431-ec262213-0e72-4cfe-b275-2e87dd3839f1.png" />
 </p>
 
 ## How did I approach developing the code for this application?
